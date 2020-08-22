@@ -6,9 +6,11 @@ h1,a{
 }
 h1{
     font-size: 40px;
+    font-family: 'ArialMT',sans-serif;
 }
 a{
     font-size: 21px;
+    font-family: 'Segoe UI',sans-serif;
     text-decoration: none; /*Retira o sublinhado do link.*/
     
 }
